@@ -10,10 +10,10 @@ pip install pillow
 ###### Ejemplo de uso (El programa se ejecuta a base de argumentos)
 > cmp.py [ruta de el archivo o carpeta] (Solo funciona con archivos `jpg` o `jpeg`)
 
-```cmd
+```
 cmp.py C:/Users/JDI/Pictures
 ```
-```cmd
+```
 cmp.py C:/Users/JDI/Pictures/image.jpg
 ```
 
